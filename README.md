@@ -10,3 +10,5 @@ This is a repository for AIFFEL projects.
 * [고양이 개 분류기](e4_image_classifier/Cat_vs_Dog_classifier.ipynb)
 * [꽃 분류기1](e4_image_classifier/Flower_classifier.ipynb)
 * [꽃 분류기2](e4_image_classifier/Flower_classifier_2.ipynb)
+* [당뇨병 예측](e5_linear_regression/e5_predict_diabetes.ipynb)
+* [자전거 타는 사람 수 예측](e5_linear_regression/e5_bike_sharing_demand.ipynb)
