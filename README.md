@@ -13,3 +13,4 @@ This is a repository for AIFFEL projects.
 * [E5_당뇨병 예측](e5_linear_regression/e5_predict_diabetes.ipynb)
 * [E5_자전거 타는 사람 수 예측](e5_linear_regression/e5_bike_sharing_demand.ipynb)
 * [E6_주식 가격 예측하기(삼성,카카오,테슬라,넷플릭스)](e6_stock_price_prediction/e6_Stock_Prediction.ipynb)
+* [E7_영화추천 프로그램 만들기](e7_recommendata_iu/e7_recommend_movie.ipynb)
