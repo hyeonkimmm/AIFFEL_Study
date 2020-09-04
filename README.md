@@ -15,3 +15,4 @@ This is a repository for AIFFEL projects.
 * [E6_주식 가격 예측하기(삼성,카카오,테슬라,넷플릭스)](e6_stock_price_prediction/e6_Stock_Prediction.ipynb)
 * [E7_영화추천 프로그램 만들기](e7_recommendata_iu/e7_recommend_movie.ipynb)
 * [E9_영화리뷰 한국어 임베딩](e9_movie_review/e9_movie_review_Word2Vec.ipynb)
+* [E10 고양이 스티커 붙이기](e10_camera_sticker/e10_camera_sticker_cat.ipynb)
