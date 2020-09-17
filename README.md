@@ -17,3 +17,4 @@ This is a repository for AIFFEL projects.
 * [E9_영화리뷰 한국어 임베딩](e09_movie_review/e9_movie_review_Word2Vec.ipynb)
 * [E10 고양이 스티커 붙이기](e10_camera_sticker/e10_camera_sticker_cat.ipynb)
 * [E11 작사가 만들기](e11_writers_ai/e11_lyricist_model.ipynb)
+* [E12 닮은 연예인 찾기](e12_find_Celebrity/e12_find_celebrity.ipynb)
