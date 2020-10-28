@@ -19,5 +19,6 @@ This is a repository for AIFFEL projects.
 * [E11 작사가 만들기](e11_writers_ai/e11_lyricist_model.ipynb)
 * [E12 닮은 연예인 찾기](e12_find_Celebrity/e12_find_celebrity.ipynb)
 * [E18 뉴스 요약봇 만들기](e18_news_summary/e18_news_summary.ipynb)
+* [E20 이상치 탐색](e20_anomaly_detection/e20_anomaly_detection.ipynb)
 -----------------------------------------------------------------------------
 * [GDCV3 Data Agumentation](Going_Deeper/gc3_data_augmentation/data_agumentation.ipynb)
