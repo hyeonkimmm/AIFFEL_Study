@@ -22,3 +22,4 @@ This is a repository for AIFFEL projects.
 * [E20 이상치 탐색](e20_anomaly_detection/e20_anomaly_detection.ipynb)
 -----------------------------------------------------------------------------
 * [GDCV3 Data Agumentation](Going_Deeper/gc3_data_augmentation/data_agumentation.ipynb)
+* [GDCV4 Data Agumentation with cutmix mixup](Going_Deeper/gc4_ablation_augmentation/GDCV4_augmentation_cutmix_mixup.ipynb)
