@@ -21,6 +21,7 @@ This is a repository for AIFFEL projects.
 * [E18 뉴스 요약봇 만들기](e18_news_summary/e18_news_summary.ipynb)
 * [E20 이상치 탐색](e20_anomaly_detection/e20_anomaly_detection.ipynb)
 * [E22 폐렴 분류기](e22_pneumonia_classifier/e22_pneumonia_classifier.ipynb)
+* [E27 의료영상 Unet 용종검출](e27_Polyp_segmentation/e27_polyp_segmentation.ipynb)
 -----------------------------------------------------------------------------
 * [GDCV3 Data Agumentation](Going_Deeper/gc3_data_augmentation/data_agumentation.ipynb)
 * [GDCV4 Data Agumentation with cutmix mixup](Going_Deeper/gc4_ablation_augmentation/GDCV4_augmentation_cutmix_mixup.ipynb)
