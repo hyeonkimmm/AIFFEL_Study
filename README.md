@@ -25,3 +25,4 @@ This is a repository for AIFFEL projects.
 -----------------------------------------------------------------------------
 * [GDCV3 Data Agumentation](Going_Deeper/gc3_data_augmentation/data_agumentation.ipynb)
 * [GDCV4 Data Agumentation with cutmix mixup](Going_Deeper/gc4_ablation_augmentation/GDCV4_augmentation_cutmix_mixup.ipynb)
+* [GDCV10 Class_Activation_Map](Going_Deeper/gc10_class_activation_map/GDCV10_Class_Activation_Map.ipynb)
